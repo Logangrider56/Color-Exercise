@@ -1,0 +1,25 @@
+/* css color */
+
+h1{
+    color:blueviolet;
+}
+ h2{
+    color: #dfdf55;
+ }
+
+ h3{
+    color:#00f;
+ }
+
+h4{
+    color: #dfdf5500
+}
+h5{
+    color:#000ffe;
+}
+H6{
+    color:rgb(25, 255, 255);
+}
+h7{
+    color: rgba(26, 235, 1, 0.7);
+}
